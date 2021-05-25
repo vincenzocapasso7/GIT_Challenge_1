@@ -1,1 +1,1 @@
-# ch1
+# GIT Challenge 1
